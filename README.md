@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @antravers
 - 👀 I’m interested in data science.
-- 🌱 I’m currently learning R and python.
+- 🌱 I can use Python, R, SQL, and Microsoft Office.
 - 💞️ I’m looking to collaborate on anything regarding data science. 
 - 📫 How to reach me: email - antravers@ucdavis.edu
 
